@@ -1,0 +1,566 @@
+symbol,name,icon
+AAPL,Apple Inc,https://image-cdn.pluang.com/icons/light/global-stocks/aapl.svg
+MSFT,Microsoft,https://image-cdn.pluang.com/icons/light/global-stocks/msft.svg
+NVDA,Nvidia Corp,https://image-cdn.pluang.com/icons/light/global-stocks/nvda.svg
+GOOG,Google Inc,https://image-cdn.pluang.com/icons/light/global-stocks/goog.svg
+AMZN,Amazon.com Inc,https://image-cdn.pluang.com/icons/light/global-stocks/amzn.svg
+META,Meta Platforms Inc,https://image-cdn.pluang.com/icons/light/global-stocks/meta.svg
+AVGO,Broadcom Inc,https://image-cdn.pluang.com/icons/light/global-stocks/avgo.svg
+TSLA,"Tesla, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/tsla.svg
+TSM,Taiwan Semiconductor Mfg. Co. Ltd.,https://image-cdn.pluang.com/icons/light/global-stocks/tsm.svg
+LLY,Eli Lilly And Co,https://image-cdn.pluang.com/icons/light/global-stocks/lly.svg
+WMT,Walmart Stores Inc,https://image-cdn.pluang.com/icons/light/global-stocks/wmt.svg
+JPM,JPMorgan Chase &Co,https://image-cdn.pluang.com/icons/light/global-stocks/jpm.svg
+V,Visa Inc,https://image-cdn.pluang.com/icons/light/global-stocks/v.svg
+MA,MasterCard Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ma.svg
+XOM,Exxon Mobil Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/xom.svg
+UNH,UnitedHealth Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/unh.svg
+ORCL,Oracle Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/orcl.svg
+COST,Costco Wholesale Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/cost.svg
+PG,Procter & Gamble Co,https://image-cdn.pluang.com/icons/light/global-stocks/pg.svg
+JNJ,Johnson & Johnson,https://image-cdn.pluang.com/icons/light/global-stocks/jnj.svg
+NVO,Novo Nordisk A/S,https://image-cdn.pluang.com/icons/light/global-stocks/nvo.svg
+NFLX,NetFlix Inc,https://image-cdn.pluang.com/icons/light/global-stocks/nflx.svg
+ABBV,AbbVie Inc,https://image-cdn.pluang.com/icons/light/global-stocks/abbv.svg
+HD,Home Depot Inc,https://image-cdn.pluang.com/icons/light/global-stocks/hd.svg
+BABA,Alibaba Group,https://image-cdn.pluang.com/icons/light/global-stocks/baba.svg
+SAP,SAP SE,https://image-cdn.pluang.com/icons/light/global-stocks/sap.svg
+BAC,Bank of America Corp,https://image-cdn.pluang.com/icons/light/global-stocks/bac.svg
+KO,The Coca-Cola Co K,https://image-cdn.pluang.com/icons/light/global-stocks/ko.svg
+TMUS,T-Mobile Us Inc,https://image-cdn.pluang.com/icons/light/global-stocks/tmus.svg
+ASML,ASML Holding NV,https://image-cdn.pluang.com/icons/light/global-stocks/asml.svg
+CVX,Chevron Corp,https://image-cdn.pluang.com/icons/light/global-stocks/cvx.svg
+CRM,Salesforce Inc,https://image-cdn.pluang.com/icons/light/global-stocks/crm.svg
+CSCO,Cisco Systems Inc,https://image-cdn.pluang.com/icons/light/global-stocks/csco.svg
+TM,Toyota Motor Corp,https://image-cdn.pluang.com/icons/light/global-stocks/tm.svg
+IBM,International Business Machines Corp,https://image-cdn.pluang.com/icons/light/global-stocks/ibm.svg
+AZN,AstraZeneca plc,https://image-cdn.pluang.com/icons/light/global-stocks/azn.svg
+MRK,"Merck & Co., Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/mrk.svg
+ABT,Abbott Laboratories,https://image-cdn.pluang.com/icons/light/global-stocks/abt.svg
+PM,Philip Morris International Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/pm.svg
+WFC,Wells Fargo & Co,https://image-cdn.pluang.com/icons/light/global-stocks/wfc.svg
+MCD,McDonald's Corp,https://image-cdn.pluang.com/icons/light/global-stocks/mcd.svg
+NVS,Novartis AG,https://image-cdn.pluang.com/icons/light/global-stocks/nvs.svg
+LIN,Linde PLC,https://image-cdn.pluang.com/icons/light/global-stocks/lin.svg
+ACN,Accenture plc,https://image-cdn.pluang.com/icons/light/global-stocks/acn.svg
+PEP,"PepsiCo, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/pep.svg
+GE,General Electric Co,https://image-cdn.pluang.com/icons/light/global-stocks/ge.svg
+PLTR,Palantir Technologies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/pltr.svg
+SHEL,Shell PLC,https://image-cdn.pluang.com/icons/light/global-stocks/shel.svg
+ADBE,Adobe Systems Inc,https://image-cdn.pluang.com/icons/light/global-stocks/adbe.svg
+T,AT&T Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/t.svg
+VZ,Verizon Communications Inc,https://image-cdn.pluang.com/icons/light/global-stocks/vz.svg
+MS,Morgan Stanley,https://image-cdn.pluang.com/icons/light/global-stocks/ms.svg
+AXP,American Express Co,https://image-cdn.pluang.com/icons/light/global-stocks/axp.svg
+DIS,Walt Disney Co,https://image-cdn.pluang.com/icons/light/global-stocks/dis.svg
+ISRG,"Intuitive Surgical, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/isrg.svg
+QCOM,"QUALCOMM, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/qcom.svg
+NOW,ServiceNow Inc,https://image-cdn.pluang.com/icons/light/global-stocks/now.svg
+GS,Goldman Sachs Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/gs.svg
+AMGN,"Amgen, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/amgn.svg
+TXN,Texas Instruments Incorporated,https://image-cdn.pluang.com/icons/light/global-stocks/txn.svg
+RTX,Raytheon Technologies Corp,https://image-cdn.pluang.com/icons/light/global-stocks/rtx.svg
+INTU,Intuit Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/intu.svg
+CAT,Caterpillar Inc,https://image-cdn.pluang.com/icons/light/global-stocks/cat.svg
+PGR,Progressive Corp,https://image-cdn.pluang.com/icons/light/global-stocks/pgr.svg
+AMD,Advanced Micro Devices,https://image-cdn.pluang.com/icons/light/global-stocks/amd.svg
+UBER,Uber Technologies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/uber.svg
+BKNG,Booking Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/bkng.svg
+SPGI,S&P Global Inc,https://image-cdn.pluang.com/icons/light/global-stocks/spgi.svg
+DHR,Danaher Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/dhr.svg
+PFE,Pfizer Inc,https://image-cdn.pluang.com/icons/light/global-stocks/pfe.svg
+UNP,Union Pacific Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/unp.svg
+NEE,"NextEra Energy, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/nee.svg
+SNY,Sanofi SA,https://image-cdn.pluang.com/icons/light/global-stocks/sny.svg
+BLK,Blackrock Inc,https://image-cdn.pluang.com/icons/light/global-stocks/blk.svg
+UL,Unilever plc,https://image-cdn.pluang.com/icons/light/global-stocks/ul.svg
+BSX,Boston Scientific Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/bsx.svg
+GILD,"Gilead Sciences, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/gild.svg
+SONY,Sony Group Corp,https://image-cdn.pluang.com/icons/light/global-stocks/sony.svg
+CMCSA,Comcast Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/cmcsa.svg
+HON,Honeywell International Inc,https://image-cdn.pluang.com/icons/light/global-stocks/hon.svg
+LOW,Lowe`s Companies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/low.svg
+TTE,TotalEnergies SE,https://image-cdn.pluang.com/icons/light/global-stocks/tte.svg
+DE,Deere & Company,https://image-cdn.pluang.com/icons/light/global-stocks/de.svg
+SCHW,Charles Schwab Corporation Common Stock,https://image-cdn.pluang.com/icons/light/global-stocks/schw.svg
+TJX,TJX Companies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/tjx.svg
+C,Citigroup Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/c.svg
+SHOP,Shopify Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/shop.svg
+AMAT,"Applied Materials, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/amat.svg
+VRTX,Vertex Pharmaceuticals Incorporated,https://image-cdn.pluang.com/icons/light/global-stocks/vrtx.svg
+BHP,BHP Billiton Limited,https://image-cdn.pluang.com/icons/light/global-stocks/bhp.svg
+ADP,Automatic Data Processing Inc,https://image-cdn.pluang.com/icons/light/global-stocks/adp.svg
+BMY,Bristol-Myers Squibb Co,https://image-cdn.pluang.com/icons/light/global-stocks/bmy.svg
+BUD,Anheuser-Busch Inbev SA,https://image-cdn.pluang.com/icons/light/global-stocks/bud.svg
+MDT,Medtronic PLC,https://image-cdn.pluang.com/icons/light/global-stocks/mdt.svg
+SBUX,Starbucks Corp,https://image-cdn.pluang.com/icons/light/global-stocks/sbux.svg
+PANW,Palo Alto Networks Inc,https://image-cdn.pluang.com/icons/light/global-stocks/panw.svg
+NKE,Nike Inc,https://image-cdn.pluang.com/icons/light/global-stocks/nke.svg
+MMC,"Marsh & McLennan Companies, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/mmc.svg
+BA,Boeing Co,https://image-cdn.pluang.com/icons/light/global-stocks/ba.svg
+COP,ConocoPhillips,https://image-cdn.pluang.com/icons/light/global-stocks/cop.svg
+CB,Chubb Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/cb.svg
+ADI,"Analog Devices, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/adi.svg
+LMT,Lockheed Martin Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/lmt.svg
+BX,Blackstone Inc,https://image-cdn.pluang.com/icons/light/global-stocks/bx.svg
+PLD,Prologis Inc,https://image-cdn.pluang.com/icons/light/global-stocks/pld.svg
+SPOT,Spotify Technology,https://image-cdn.pluang.com/icons/light/global-stocks/spot.svg
+ANET,Arista Networks Inc,https://image-cdn.pluang.com/icons/light/global-stocks/anet.svg
+TD,Toronto-Dominion Bank,https://image-cdn.pluang.com/icons/light/global-stocks/td.svg
+UPS,United Parcel Service Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ups.svg
+MU,"Micron Technology, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/mu.svg
+MELI,Mercadolibre Inc,https://image-cdn.pluang.com/icons/light/global-stocks/meli.svg
+LRCX,Lam Research Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/lrcx.svg
+AMT,American Tower Corp,https://image-cdn.pluang.com/icons/light/global-stocks/amt.svg
+MO,Altria Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/mo.svg
+KLAC,KLA Corp.,https://image-cdn.pluang.com/icons/light/global-stocks/klac.svg
+WM,"Waste Management, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/wm.svg
+ENB,Enbridge Inc,https://image-cdn.pluang.com/icons/light/global-stocks/enb.svg
+DUK,Duke Energy Corp,https://image-cdn.pluang.com/icons/light/global-stocks/duk.svg
+INTC,Intel Corp,https://image-cdn.pluang.com/icons/light/global-stocks/intc.svg
+BTI,British American Tobacco PLC,https://image-cdn.pluang.com/icons/light/global-stocks/bti.svg
+CI,Cigna Corp,https://image-cdn.pluang.com/icons/light/global-stocks/ci.svg
+MDLZ,MONDELEZ INTERNATIONAL INC Common Stock,https://image-cdn.pluang.com/icons/light/global-stocks/mdlz.svg
+AON,Aon PLC,https://image-cdn.pluang.com/icons/light/global-stocks/aon.svg
+EQIX,Equinix Inc,https://image-cdn.pluang.com/icons/light/global-stocks/eqix.svg
+CVS,CVS Health Corp,https://image-cdn.pluang.com/icons/light/global-stocks/cvs.svg
+ABNB,"Airbnb, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/abnb.svg
+MCO,Moody's Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/mco.svg
+CRWD,Crowdstrike Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/crwd.svg
+HCA,HCA Health Inc,https://image-cdn.pluang.com/icons/light/global-stocks/hca.svg
+CTAS,Cintas Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/ctas.svg
+BBVA,Banco Bilbao Vizcaya Argentaria SA,https://image-cdn.pluang.com/icons/light/global-stocks/bbva.svg
+MCK,McKesson Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/mck.svg
+ITW,Illinois Tool Works Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/itw.svg
+GSK,GSK plc,https://image-cdn.pluang.com/icons/light/global-stocks/gsk.svg
+TRI,Thomson Reuters Corp,https://image-cdn.pluang.com/icons/light/global-stocks/tri.svg
+RACE,Ferrari NV,https://image-cdn.pluang.com/icons/light/global-stocks/race.svg
+MMM,3M Company,https://image-cdn.pluang.com/icons/light/global-stocks/mmm.svg
+CL,Colgate-Palmolive Company,https://image-cdn.pluang.com/icons/light/global-stocks/cl.svg
+SE,Sea Limited,https://image-cdn.pluang.com/icons/light/global-stocks/se.svg
+FTNT,Fortinet Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ftnt.svg
+REGN,Regeneron Pharmaceuticals Inc,https://image-cdn.pluang.com/icons/light/global-stocks/regn.svg
+ZTS,Zoetis Inc,https://image-cdn.pluang.com/icons/light/global-stocks/zts.svg
+ECL,Ecolab Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/ecl.svg
+DASH,DoorDash Inc,https://image-cdn.pluang.com/icons/light/global-stocks/dash.svg
+MSTR,MicroStrategy Incorporated,https://image-cdn.pluang.com/icons/light/global-stocks/mstr.svg
+GD,General Dynamics Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/gd.svg
+MAR,Marriott International Inc,https://image-cdn.pluang.com/icons/light/global-stocks/mar.svg
+SCCO,Southern Copper Corp,https://image-cdn.pluang.com/icons/light/global-stocks/scco.svg
+BMO,Bank of Montreal,https://image-cdn.pluang.com/icons/light/global-stocks/bmo.svg
+MSI,Motorola Solutions Inc,https://image-cdn.pluang.com/icons/light/global-stocks/msi.svg
+NOC,Northrop Grumman Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/noc.svg
+APD,"Air Products & Chemicals, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/apd.svg
+PYPL,"PayPal Holdings, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/pypl.svg
+SNPS,"Synopsys, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/snps.svg
+USB,US Bancorp,https://image-cdn.pluang.com/icons/light/global-stocks/usb.svg
+EOG,EOG Resources Inc,https://image-cdn.pluang.com/icons/light/global-stocks/eog.svg
+CMG,"Chipotle Mexican Grill, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/cmg.svg
+WDAY,Workday Inc,https://image-cdn.pluang.com/icons/light/global-stocks/wday.svg
+NTES,NetEase Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ntes.svg
+JD,JD.Com Inc,https://image-cdn.pluang.com/icons/light/global-stocks/jd.svg
+EMR,Emerson Electric Co.,https://image-cdn.pluang.com/icons/light/global-stocks/emr.svg
+CDNS,Cadence Design Systems Inc,https://image-cdn.pluang.com/icons/light/global-stocks/cdns.svg
+WMB,Williams Companies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/wmb.svg
+COF,Capital One Financial Corp.,https://image-cdn.pluang.com/icons/light/global-stocks/cof.svg
+BDX,Becton Dickinson and Co,https://image-cdn.pluang.com/icons/light/global-stocks/bdx.svg
+DELL,Dell Technologies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/dell.svg
+CNI,Canadian National Railway Co.,https://image-cdn.pluang.com/icons/light/global-stocks/cni.svg
+EQNR,Equinor ASA,https://image-cdn.pluang.com/icons/light/global-stocks/eqnr.svg
+TEAM,Atlassian Corporation PLC,https://image-cdn.pluang.com/icons/light/global-stocks/team.svg
+ING,ING Groep NV,https://image-cdn.pluang.com/icons/light/global-stocks/ing.svg
+BK,Bank of New York Mellon Corp,https://image-cdn.pluang.com/icons/light/global-stocks/bk.svg
+MRVL,Marvell Technology Inc,https://image-cdn.pluang.com/icons/light/global-stocks/mrvl.svg
+FDX,FedEx Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/fdx.svg
+BNS,Bank of Nova Scotia,https://image-cdn.pluang.com/icons/light/global-stocks/bns.svg
+AZO,Autozone Inc,https://image-cdn.pluang.com/icons/light/global-stocks/azo.svg
+CNQ,Canadian Natural Resources Ltd.,https://image-cdn.pluang.com/icons/light/global-stocks/cnq.svg
+HLT,Hilton Hotels Corporation Common Stock,https://image-cdn.pluang.com/icons/light/global-stocks/hlt.svg
+AFL,AFLAC Incorporated,https://image-cdn.pluang.com/icons/light/global-stocks/afl.svg
+CSX,CSX Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/csx.svg
+KMI,Kinder Morgan Inc,https://image-cdn.pluang.com/icons/light/global-stocks/kmi.svg
+RCL,Royal Caribbean Cruises Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/rcl.svg
+SLB,Schlumberger NV,https://image-cdn.pluang.com/icons/light/global-stocks/slb.svg
+SPG,Simon Property Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/spg.svg
+AEP,American Electric Power Company Inc,https://image-cdn.pluang.com/icons/light/global-stocks/aep.svg
+ADSK,Autodesk Inc,https://image-cdn.pluang.com/icons/light/global-stocks/adsk.svg
+BCS,Barclays PLC,https://image-cdn.pluang.com/icons/light/global-stocks/bcs.svg
+PAYX,"Paychex, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/payx.svg
+COIN,"Coinbase Global, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/coin.svg
+PSA,Public Storage,https://image-cdn.pluang.com/icons/light/global-stocks/psa.svg
+CHTR,Charter Communications Inc,https://image-cdn.pluang.com/icons/light/global-stocks/chtr.svg
+MNST,Monster Beverage Corp,https://image-cdn.pluang.com/icons/light/global-stocks/mnst.svg
+ALL,Allstate Corp,https://image-cdn.pluang.com/icons/light/global-stocks/all.svg
+FCX,Freeport-McMoRan Inc,https://image-cdn.pluang.com/icons/light/global-stocks/fcx.svg
+JCI,Johnson Controls International PLC,https://image-cdn.pluang.com/icons/light/global-stocks/jci.svg
+SNOW,Snowflake Inc,https://image-cdn.pluang.com/icons/light/global-stocks/snow.svg
+TGT,Target Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/tgt.svg
+O,Realty Income Corp,https://image-cdn.pluang.com/icons/light/global-stocks/o.svg
+NU,Nu Holdings Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/nu.svg
+PSX,Phillips 66,https://image-cdn.pluang.com/icons/light/global-stocks/psx.svg
+MFC,Manulife Financial Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/mfc.svg
+DLR,"Digital Realty Trust, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/dlr.svg
+AEM,Agnico Eagle Mines Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/aem.svg
+NEM,Newmont Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/nem.svg
+AIG,American International Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/aig.svg
+KMB,Kimberly Clark Corp,https://image-cdn.pluang.com/icons/light/global-stocks/kmb.svg
+GM,General Motors Company,https://image-cdn.pluang.com/icons/light/global-stocks/gm.svg
+D,Dominion Energy Inc,https://image-cdn.pluang.com/icons/light/global-stocks/d.svg
+DB,Deutsche Bank AG,https://image-cdn.pluang.com/icons/light/global-stocks/db.svg
+HES,Hess Corp.,https://image-cdn.pluang.com/icons/light/global-stocks/hes.svg
+YUM,"Yum! Brands, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/yum.svg
+ALC,Alcon AG,https://image-cdn.pluang.com/icons/light/global-stocks/alc.svg
+ROST,"Ross Stores, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/rost.svg
+SU,Suncor Energy Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/su.svg
+OXY,Occidental Petroleum Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/oxy.svg
+KR,Kroger Co,https://image-cdn.pluang.com/icons/light/global-stocks/kr.svg
+NET,Cloudflare Inc,https://image-cdn.pluang.com/icons/light/global-stocks/net.svg
+MSCI,Msci Inc,https://image-cdn.pluang.com/icons/light/global-stocks/msci.svg
+MPC,Marathon Petroleum Corp,https://image-cdn.pluang.com/icons/light/global-stocks/mpc.svg
+NDAQ,Nasdaq Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ndaq.svg
+TCOM,Trip.com Group Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/tcom.svg
+BKR,Baker Hughes Co,https://image-cdn.pluang.com/icons/light/global-stocks/bkr.svg
+CCI,Crown Castle International Corp,https://image-cdn.pluang.com/icons/light/global-stocks/cci.svg
+AME,"AMETEK, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/ame.svg
+VALE,Vale SA,https://image-cdn.pluang.com/icons/light/global-stocks/vale.svg
+GRMN,Garmin Ltd.,https://image-cdn.pluang.com/icons/light/global-stocks/grmn.svg
+DHI,D R Horton Inc,https://image-cdn.pluang.com/icons/light/global-stocks/dhi.svg
+LULU,Lululemon Athletica Inc,https://image-cdn.pluang.com/icons/light/global-stocks/lulu.svg
+LHX,L3Harris Technologies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/lhx.svg
+OTIS,Otis Worldwide Corp,https://image-cdn.pluang.com/icons/light/global-stocks/otis.svg
+CTSH,Cognizant Technology Solutions Corp,https://image-cdn.pluang.com/icons/light/global-stocks/ctsh.svg
+CPNG,Coupang Inc,https://image-cdn.pluang.com/icons/light/global-stocks/cpng.svg
+FANG,Diamondback Energy Inc,https://image-cdn.pluang.com/icons/light/global-stocks/fang.svg
+VLO,Valero Energy Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/vlo.svg
+PRU,Prudential Financial Inc,https://image-cdn.pluang.com/icons/light/global-stocks/pru.svg
+GLW,Corning Incorporated,https://image-cdn.pluang.com/icons/light/global-stocks/glw.svg
+HOOD,"Robinhood Markets, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/hood.svg
+F,Ford Motor Company,https://image-cdn.pluang.com/icons/light/global-stocks/f.svg
+XEL,Xcel Energy Inc,https://image-cdn.pluang.com/icons/light/global-stocks/xel.svg
+KHC,Kraft Heinz Co,https://image-cdn.pluang.com/icons/light/global-stocks/khc.svg
+ODFL,Old Dominion Freight Line Inc,https://image-cdn.pluang.com/icons/light/global-stocks/odfl.svg
+RBLX,Roblox Corp,https://image-cdn.pluang.com/icons/light/global-stocks/rblx.svg
+FIS,Fidelity National Information Servcs Inc,https://image-cdn.pluang.com/icons/light/global-stocks/fis.svg
+DDOG,Datadog Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ddog.svg
+HSY,Hershey Co,https://image-cdn.pluang.com/icons/light/global-stocks/hsy.svg
+SYY,SYSCO Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/syy.svg
+XYZ,Block Inc,https://image-cdn.pluang.com/icons/light/global-stocks/xyz.svg
+IT,Gartner Inc,https://image-cdn.pluang.com/icons/light/global-stocks/it.svg
+ED,"Consolidated Edison, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/ed.svg
+EA,Electronic Arts Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/ea.svg
+PWR,Quanta Services Inc,https://image-cdn.pluang.com/icons/light/global-stocks/pwr.svg
+A,Agilent Technologies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/a.svg
+TTWO,"TAKE-TWO INTERACTIVE SOFTWARE, INC Common Stock",https://image-cdn.pluang.com/icons/light/global-stocks/ttwo.svg
+GIS,"General Mills, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/gis.svg
+IDXX,"IDEXX Laboratories, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/idxx.svg
+DAL,"Delta Air Lines, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/dal.svg
+RMD,ResMed Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/rmd.svg
+HUBS,HubSpot Inc,https://image-cdn.pluang.com/icons/light/global-stocks/hubs.svg
+EXR,"Extra Space Storage, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/exr.svg
+LEN,Lennar Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/len.svg
+EBAY,eBay Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ebay.svg
+BIDU,Baidu Inc,https://image-cdn.pluang.com/icons/light/global-stocks/bidu.svg
+DD,DuPont de Nemours Inc,https://image-cdn.pluang.com/icons/light/global-stocks/dd.svg
+GOLD,Barrick Gold Corp,https://image-cdn.pluang.com/icons/light/global-stocks/gold.svg
+LVS,Las Vegas Sands Corp.,https://image-cdn.pluang.com/icons/light/global-stocks/lvs.svg
+TTD,Trade Desk Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ttd.svg
+WPM,Wheaton Precious Metals Corp,https://image-cdn.pluang.com/icons/light/global-stocks/wpm.svg
+MCHP,Microchip Technology Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/mchp.svg
+ZS,Zscaler Inc,https://image-cdn.pluang.com/icons/light/global-stocks/zs.svg
+XYL,"Xylem, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/xyl.svg
+ALNY,"Alnylam Pharmaceuticals, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/alny.svg
+HUM,Humana Inc,https://image-cdn.pluang.com/icons/light/global-stocks/hum.svg
+ROK,Rockwell Automation,https://image-cdn.pluang.com/icons/light/global-stocks/rok.svg
+NUE,Nucor Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/nue.svg
+CAH,Cardinal Health Inc,https://image-cdn.pluang.com/icons/light/global-stocks/cah.svg
+DXCM,"DexCom, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/dxcm.svg
+LI,Li Auto Inc,https://image-cdn.pluang.com/icons/light/global-stocks/li.svg
+TSCO,Tractor Supply Co,https://image-cdn.pluang.com/icons/light/global-stocks/tsco.svg
+CNC,Centene Corp,https://image-cdn.pluang.com/icons/light/global-stocks/cnc.svg
+LYV,"Live Nation Entertainment, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/lyv.svg
+RJF,"Raymond James Financial, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/rjf.svg
+MTB,M&T Bank Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/mtb.svg
+HPQ,HP Inc,https://image-cdn.pluang.com/icons/light/global-stocks/hpq.svg
+ANSS,"ANSYS, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/anss.svg
+K,Kellogg Company,https://image-cdn.pluang.com/icons/light/global-stocks/k.svg
+AWK,American Water Works Company Inc,https://image-cdn.pluang.com/icons/light/global-stocks/awk.svg
+NOK,Nokia Corp,https://image-cdn.pluang.com/icons/light/global-stocks/nok.svg
+CCL,Carnival Corp,https://image-cdn.pluang.com/icons/light/global-stocks/ccl.svg
+CHD,"Church & Dwight Co., Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/chd.svg
+UAL,United Airlines Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ual.svg
+KEYS,Keysight Technologies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/keys.svg
+DOW,Dow Inc,https://image-cdn.pluang.com/icons/light/global-stocks/dow.svg
+EL,Estee Lauder Companies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/el.svg
+PPG,"PPG Industries, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/ppg.svg
+BNTX,BioNTech SE - ADR,https://image-cdn.pluang.com/icons/light/global-stocks/bntx.svg
+MT,ArcelorMittal SA,https://image-cdn.pluang.com/icons/light/global-stocks/mt.svg
+DOV,Dover Corp,https://image-cdn.pluang.com/icons/light/global-stocks/dov.svg
+PUK,Prudential PLC,https://image-cdn.pluang.com/icons/light/global-stocks/puk.svg
+CVNA,Carvana Co,https://image-cdn.pluang.com/icons/light/global-stocks/cvna.svg
+PHG,Koninklijke Philips NV,https://image-cdn.pluang.com/icons/light/global-stocks/phg.svg
+NTR,Nutrien Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/ntr.svg
+LYB,LyondellBasell Industries NV,https://image-cdn.pluang.com/icons/light/global-stocks/lyb.svg
+GPN,Global Payments Inc,https://image-cdn.pluang.com/icons/light/global-stocks/gpn.svg
+IRM,Iron Mountain Inc,https://image-cdn.pluang.com/icons/light/global-stocks/irm.svg
+GDDY,Godaddy Inc,https://image-cdn.pluang.com/icons/light/global-stocks/gddy.svg
+FOX,Fox Corp Class B,https://image-cdn.pluang.com/icons/light/global-stocks/fox.svg
+EXPE,Expedia Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/expe.svg
+ADM,Archer-Daniels-Midland Co,https://image-cdn.pluang.com/icons/light/global-stocks/adm.svg
+ATO,Atmos Energy Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/ato.svg
+RYAAY,Ryanair Holdings plc,https://image-cdn.pluang.com/icons/light/global-stocks/ryaay.svg
+CVE,Cenovus Energy Inc,https://image-cdn.pluang.com/icons/light/global-stocks/cve.svg
+PINS,Pinterest Inc,https://image-cdn.pluang.com/icons/light/global-stocks/pins.svg
+WSM,"Williams-Sonoma, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/wsm.svg
+ZM,"Zoom Video Communications, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/zm.svg
+TME,Tencent Music Entertainment Group - ADR,https://image-cdn.pluang.com/icons/light/global-stocks/tme.svg
+STM,STMicroelectronics NV,https://image-cdn.pluang.com/icons/light/global-stocks/stm.svg
+VRSN,"Verisign, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/vrsn.svg
+DVN,Devon Energy Corp,https://image-cdn.pluang.com/icons/light/global-stocks/dvn.svg
+TROW,T Rowe Price Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/trow.svg
+CDW,CDW Corp.,https://image-cdn.pluang.com/icons/light/global-stocks/cdw.svg
+FE,FirstEnergy Corp.,https://image-cdn.pluang.com/icons/light/global-stocks/fe.svg
+MKC,"McCormick & Company, Incorporated",https://image-cdn.pluang.com/icons/light/global-stocks/mkc.svg
+HBAN,Huntington Bancshares Incorporated,https://image-cdn.pluang.com/icons/light/global-stocks/hban.svg
+BIIB,Biogen Inc,https://image-cdn.pluang.com/icons/light/global-stocks/biib.svg
+XPEV,Xpeng Inc - ADR,https://image-cdn.pluang.com/icons/light/global-stocks/xpev.svg
+CINF,Cincinnati Financial Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/cinf.svg
+PHM,"PulteGroup, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/phm.svg
+TSN,"Tyson Foods, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/tsn.svg
+HAL,Halliburton Company,https://image-cdn.pluang.com/icons/light/global-stocks/hal.svg
+ZBH,Zimmer Biomet Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/zbh.svg
+ASX,ASE Technology Holding Co Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/asx.svg
+HPE,Hewlett Packard Enterprise Co,https://image-cdn.pluang.com/icons/light/global-stocks/hpe.svg
+EC,Ecopetrol SA,https://image-cdn.pluang.com/icons/light/global-stocks/ec.svg
+OKTA,"Okta, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/okta.svg
+DGX,Quest Diagnostics Inc,https://image-cdn.pluang.com/icons/light/global-stocks/dgx.svg
+ESS,"Essex Property Trust, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/ess.svg
+DKNG,DraftKings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/dkng.svg
+DECK,Deckers Outdoor Corp,https://image-cdn.pluang.com/icons/light/global-stocks/deck.svg
+NTAP,NetApp Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/ntap.svg
+BAX,Baxter International Inc,https://image-cdn.pluang.com/icons/light/global-stocks/bax.svg
+YUMC,Yum China Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/yumc.svg
+GRAB,Grab Holdings Ltd.,https://image-cdn.pluang.com/icons/light/global-stocks/grab.svg
+STX,Seagate Technology Holdings PLC,https://image-cdn.pluang.com/icons/light/global-stocks/stx.svg
+CLX,Clorox Co,https://image-cdn.pluang.com/icons/light/global-stocks/clx.svg
+ZG,Zillow Group Inc Class A,https://image-cdn.pluang.com/icons/light/global-stocks/zg.svg
+GFI,Gold Fields Limited,https://image-cdn.pluang.com/icons/light/global-stocks/gfi.svg
+DG,Dollar General Corp.,https://image-cdn.pluang.com/icons/light/global-stocks/dg.svg
+WMG,Warner Music Group Corp,https://image-cdn.pluang.com/icons/light/global-stocks/wmg.svg
+ARE,Alexandria Real Estate Equities Inc,https://image-cdn.pluang.com/icons/light/global-stocks/are.svg
+GPC,Genuine Parts Company,https://image-cdn.pluang.com/icons/light/global-stocks/gpc.svg
+TER,"Teradyne, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/ter.svg
+EXPD,Expeditors International of Wshngtn Inc,https://image-cdn.pluang.com/icons/light/global-stocks/expd.svg
+NRG,NRG Energy Inc,https://image-cdn.pluang.com/icons/light/global-stocks/nrg.svg
+KEY,KeyCorp,https://image-cdn.pluang.com/icons/light/global-stocks/key.svg
+LUV,Southwest Airlines Co,https://image-cdn.pluang.com/icons/light/global-stocks/luv.svg
+BBY,Best Buy Co Inc,https://image-cdn.pluang.com/icons/light/global-stocks/bby.svg
+UMC,United Microelectronics Corp,https://image-cdn.pluang.com/icons/light/global-stocks/umc.svg
+OMC,Omnicom Group Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/omc.svg
+AFRM,Affirm Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/afrm.svg
+SNAP,Snap Inc,https://image-cdn.pluang.com/icons/light/global-stocks/snap.svg
+ULTA,Ulta Beauty Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ulta.svg
+HRL,Hormel Foods Corp,https://image-cdn.pluang.com/icons/light/global-stocks/hrl.svg
+JBHT,J B Hunt Transport Services Inc,https://image-cdn.pluang.com/icons/light/global-stocks/jbht.svg
+DPZ,"Domino's Pizza, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/dpz.svg
+TWLO,Twilio Inc,https://image-cdn.pluang.com/icons/light/global-stocks/twlo.svg
+DOCU,Docusign Inc,https://image-cdn.pluang.com/icons/light/global-stocks/docu.svg
+LNT,Alliant Energy Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/lnt.svg
+MRO,Marathon Oil Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/mro.svg
+FFIV,F5 Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ffiv.svg
+AU,AngloGold Ashanti Limited,https://image-cdn.pluang.com/icons/light/global-stocks/au.svg
+FUTU,Futu Holdings Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/futu.svg
+ENTG,Entegris Inc,https://image-cdn.pluang.com/icons/light/global-stocks/entg.svg
+CG,Carlyle Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/cg.svg
+TPR,"Tapestry, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/tpr.svg
+APTV,Aptiv PLC,https://image-cdn.pluang.com/icons/light/global-stocks/aptv.svg
+MDB,Mongodb Inc,https://image-cdn.pluang.com/icons/light/global-stocks/mdb.svg
+FSLR,"First Solar, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/fslr.svg
+AMCR,Amcor PLC,https://image-cdn.pluang.com/icons/light/global-stocks/amcr.svg
+DLTR,"Dollar Tree, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/dltr.svg
+BAH,Booz Allen Hamilton Holding Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/bah.svg
+WDC,Western Digital Corp,https://image-cdn.pluang.com/icons/light/global-stocks/wdc.svg
+HOLX,"Hologic, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/holx.svg
+LOGI,Logitech International SA,https://image-cdn.pluang.com/icons/light/global-stocks/logi.svg
+RL,Ralph Lauren Corp,https://image-cdn.pluang.com/icons/light/global-stocks/rl.svg
+KGC,Kinross Gold Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/kgc.svg
+SOFI,SoFi Technologies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/sofi.svg
+SWK,"Stanley Black & Decker, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/swk.svg
+MRNA,"Moderna, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/mrna.svg
+ILMN,"Illumina, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/ilmn.svg
+INCY,Incyte Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/incy.svg
+CHWY,Chewy Inc,https://image-cdn.pluang.com/icons/light/global-stocks/chwy.svg
+AMH,American Homes 4 Rent Class A,https://image-cdn.pluang.com/icons/light/global-stocks/amh.svg
+DUOL,Duolingo Inc,https://image-cdn.pluang.com/icons/light/global-stocks/duol.svg
+AKAM,"Akamai Technologies, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/akam.svg
+CF,"CF Industries Holdings, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/cf.svg
+H,Hyatt Hotels Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/h.svg
+CAG,Conagra Brands Inc,https://image-cdn.pluang.com/icons/light/global-stocks/cag.svg
+SNN,Smith & Nephew plc,https://image-cdn.pluang.com/icons/light/global-stocks/snn.svg
+ACM,Aecom,https://image-cdn.pluang.com/icons/light/global-stocks/acm.svg
+ALGN,"Align Technology, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/algn.svg
+NLY,"Annaly Capital Management, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/nly.svg
+RIVN,"Rivian Automotive, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/rivn.svg
+SJM,J M Smucker Co,https://image-cdn.pluang.com/icons/light/global-stocks/sjm.svg
+CPB,Campbell Soup Co.,https://image-cdn.pluang.com/icons/light/global-stocks/cpb.svg
+ACI,Albertsons Companies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/aci.svg
+CHRW,"C.H. Robinson Worldwide, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/chrw.svg
+PAYC,Paycom Software Inc,https://image-cdn.pluang.com/icons/light/global-stocks/payc.svg
+JLL,Jones Lang LaSalle Inc,https://image-cdn.pluang.com/icons/light/global-stocks/jll.svg
+KMX,"CarMax, Inc",https://image-cdn.pluang.com/icons/light/global-stocks/kmx.svg
+DVA,Davita Inc,https://image-cdn.pluang.com/icons/light/global-stocks/dva.svg
+SWKS,Skyworks Solutions Inc,https://image-cdn.pluang.com/icons/light/global-stocks/swks.svg
+CTLT,Catalent Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ctlt.svg
+VTRS,Viatris Inc,https://image-cdn.pluang.com/icons/light/global-stocks/vtrs.svg
+ALLE,Allegion PLC,https://image-cdn.pluang.com/icons/light/global-stocks/alle.svg
+EPAM,EPAM Systems Inc,https://image-cdn.pluang.com/icons/light/global-stocks/epam.svg
+GME,GameStop Corp.,https://image-cdn.pluang.com/icons/light/global-stocks/gme.svg
+AFG,American Financial Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/afg.svg
+BEN,"Franklin Resources, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/ben.svg
+ALLY,Ally Financial Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ally.svg
+TECH,BIO-TECHNE Corp,https://image-cdn.pluang.com/icons/light/global-stocks/tech.svg
+WIX,Wix.Com Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/wix.svg
+AOS,A O Smith Corp,https://image-cdn.pluang.com/icons/light/global-stocks/aos.svg
+U,Unity Software Inc,https://image-cdn.pluang.com/icons/light/global-stocks/u.svg
+WBA,Walgreens Boots Alliance Inc,https://image-cdn.pluang.com/icons/light/global-stocks/wba.svg
+CUBE,CubeSmart,https://image-cdn.pluang.com/icons/light/global-stocks/cube.svg
+WYNN,"Wynn Resorts, Limited",https://image-cdn.pluang.com/icons/light/global-stocks/wynn.svg
+AGNC,AGNC Investment Corp,https://image-cdn.pluang.com/icons/light/global-stocks/agnc.svg
+EDR,Endeavor Group holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/edr.svg
+GTLB,Gitlab Inc,https://image-cdn.pluang.com/icons/light/global-stocks/gtlb.svg
+MGM,MGM Resorts International,https://image-cdn.pluang.com/icons/light/global-stocks/mgm.svg
+NIO,NIO Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/nio.svg
+CRL,Charles River Laboratories Intl. Inc,https://image-cdn.pluang.com/icons/light/global-stocks/crl.svg
+HAS,"Hasbro, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/has.svg
+WMS,Advanced Drainage Systems Inc,https://image-cdn.pluang.com/icons/light/global-stocks/wms.svg
+ALB,Albemarle Corp.,https://image-cdn.pluang.com/icons/light/global-stocks/alb.svg
+NCLH,Norwegian Cruise Line Holdings Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/nclh.svg
+VIPS,Vipshop Holdings Ltd - ADR,https://image-cdn.pluang.com/icons/light/global-stocks/vips.svg
+ASND,Ascendis Pharma A/S,https://image-cdn.pluang.com/icons/light/global-stocks/asnd.svg
+GAP,Gap Inc,https://image-cdn.pluang.com/icons/light/global-stocks/gap.svg
+PARA,Paramount Global Class B,https://image-cdn.pluang.com/icons/light/global-stocks/para.svg
+AAL,American Airlines Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/aal.svg
+SIRI,Sirius XM Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/siri.svg
+KD,Kyndryl Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/kd.svg
+MTCH,Match Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/mtch.svg
+ENPH,Enphase Energy Inc,https://image-cdn.pluang.com/icons/light/global-stocks/enph.svg
+NYT,New York Times Co,https://image-cdn.pluang.com/icons/light/global-stocks/nyt.svg
+DLB,"Dolby Laboratories, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/dlb.svg
+AES,AES Corp,https://image-cdn.pluang.com/icons/light/global-stocks/aes.svg
+ICL,Icl Group Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/icl.svg
+DBX,Dropbox Inc,https://image-cdn.pluang.com/icons/light/global-stocks/dbx.svg
+AGCO,AGCO Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/agco.svg
+ASTS,AST SpaceMobile Inc,https://image-cdn.pluang.com/icons/light/global-stocks/asts.svg
+LW,Lamb Weston Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/lw.svg
+VFC,VF Corp,https://image-cdn.pluang.com/icons/light/global-stocks/vfc.svg
+BIO,"Bio-Rad Laboratories, Inc. Class A Common Stock",https://image-cdn.pluang.com/icons/light/global-stocks/bio.svg
+HMY,Harmony Gold Mining Co.,https://image-cdn.pluang.com/icons/light/global-stocks/hmy.svg
+BBWI,Bath & Body Works Inc,https://image-cdn.pluang.com/icons/light/global-stocks/bbwi.svg
+IVZ,Invesco Ltd.,https://image-cdn.pluang.com/icons/light/global-stocks/ivz.svg
+MAT,Mattel Inc,https://image-cdn.pluang.com/icons/light/global-stocks/mat.svg
+PATH,UiPath Inc,https://image-cdn.pluang.com/icons/light/global-stocks/path.svg
+ADT,ADT Inc,https://image-cdn.pluang.com/icons/light/global-stocks/adt.svg
+LEVI,Levi Strauss & Co.,https://image-cdn.pluang.com/icons/light/global-stocks/levi.svg
+LCID,Lucid Group Inc,https://image-cdn.pluang.com/icons/light/global-stocks/lcid.svg
+CELH,"Celsius Holdings, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/celh.svg
+CZR,Caesars Entertainment Inc,https://image-cdn.pluang.com/icons/light/global-stocks/czr.svg
+BBIO,BridgeBio Pharma Inc,https://image-cdn.pluang.com/icons/light/global-stocks/bbio.svg
+CROX,"Crocs, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/crox.svg
+LUMN,Lumen Technologies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/lumn.svg
+LYFT,LYFT Inc,https://image-cdn.pluang.com/icons/light/global-stocks/lyft.svg
+FMC,FMC Corp,https://image-cdn.pluang.com/icons/light/global-stocks/fmc.svg
+UPST,Upstart Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/upst.svg
+ETSY,Etsy Inc,https://image-cdn.pluang.com/icons/light/global-stocks/etsy.svg
+BILL,Bill.com Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/bill.svg
+FRSH,Freshworks Inc,https://image-cdn.pluang.com/icons/light/global-stocks/frsh.svg
+BOX,Box Inc,https://image-cdn.pluang.com/icons/light/global-stocks/box.svg
+FIVE,Five Below Inc,https://image-cdn.pluang.com/icons/light/global-stocks/five.svg
+ANF,Abercrombie & Fitch Co.,https://image-cdn.pluang.com/icons/light/global-stocks/anf.svg
+RELY,Remitly Global Inc,https://image-cdn.pluang.com/icons/light/global-stocks/rely.svg
+ASAN,Asana Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/asan.svg
+WU,Western Union Co,https://image-cdn.pluang.com/icons/light/global-stocks/wu.svg
+CRSP,Crispr Therapeutics AG,https://image-cdn.pluang.com/icons/light/global-stocks/crsp.svg
+M,Macy's Inc,https://image-cdn.pluang.com/icons/light/global-stocks/m.svg
+BC,Brunswick Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/bc.svg
+DOCN,DigitalOcean Holdings Inc,https://image-cdn.pluang.com/icons/light/global-stocks/docn.svg
+IAC,IAC/Interactivecorp,https://image-cdn.pluang.com/icons/light/global-stocks/iac.svg
+BRZE,Braze Inc,https://image-cdn.pluang.com/icons/light/global-stocks/brze.svg
+HOG,Harley-Davidson Inc,https://image-cdn.pluang.com/icons/light/global-stocks/hog.svg
+XRAY,DENTSPLY SIRONA Inc,https://image-cdn.pluang.com/icons/light/global-stocks/xray.svg
+WEN,Wendys Co,https://image-cdn.pluang.com/icons/light/global-stocks/wen.svg
+AMED,Amedisys Inc,https://image-cdn.pluang.com/icons/light/global-stocks/amed.svg
+AI,C3.ai Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ai.svg
+ACAD,ACADIA Pharmaceuticals Inc.,https://image-cdn.pluang.com/icons/light/global-stocks/acad.svg
+UAA,Under Armour Inc Class A,https://image-cdn.pluang.com/icons/light/global-stocks/uaa.svg
+GT,Goodyear Tire & Rubber Co,https://image-cdn.pluang.com/icons/light/global-stocks/gt.svg
+BB,BlackBerry Limited,https://image-cdn.pluang.com/icons/light/global-stocks/bb.svg
+PAYO,Payoneer Global Inc,https://image-cdn.pluang.com/icons/light/global-stocks/payo.svg
+SAM,Boston Beer Company Inc,https://image-cdn.pluang.com/icons/light/global-stocks/sam.svg
+SBSW,Sibanye Stillwater Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/sbsw.svg
+WB,Weibo Corp,https://image-cdn.pluang.com/icons/light/global-stocks/wb.svg
+LMND,Lemonade Inc,https://image-cdn.pluang.com/icons/light/global-stocks/lmnd.svg
+CPRI,Capri Holdings Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/cpri.svg
+FIVN,Five9 Inc,https://image-cdn.pluang.com/icons/light/global-stocks/fivn.svg
+QS,Quantumscape Corp,https://image-cdn.pluang.com/icons/light/global-stocks/qs.svg
+PTON,Peloton Interactive Inc,https://image-cdn.pluang.com/icons/light/global-stocks/pton.svg
+MANU,Manchester United PLC,https://image-cdn.pluang.com/icons/light/global-stocks/manu.svg
+APPN,Appian Corp,https://image-cdn.pluang.com/icons/light/global-stocks/appn.svg
+TWST,Twist Bioscience Corp,https://image-cdn.pluang.com/icons/light/global-stocks/twst.svg
+IQ,IQIYI Inc - ADR,https://image-cdn.pluang.com/icons/light/global-stocks/iq.svg
+JBLU,JetBlue Airways Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/jblu.svg
+AAP,"Advance Auto Parts, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/aap.svg
+IIPR,Innovative Industrial Properties Inc,https://image-cdn.pluang.com/icons/light/global-stocks/iipr.svg
+MQ,Marqeta Inc,https://image-cdn.pluang.com/icons/light/global-stocks/mq.svg
+TRIP,Tripadvisor Inc Common Stock,https://image-cdn.pluang.com/icons/light/global-stocks/trip.svg
+UPWK,Upwork Inc,https://image-cdn.pluang.com/icons/light/global-stocks/upwk.svg
+MTTR,Matterport Inc,https://image-cdn.pluang.com/icons/light/global-stocks/mttr.svg
+PLUG,Plug Power Inc,https://image-cdn.pluang.com/icons/light/global-stocks/plug.svg
+AMPL,Amplitude Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ampl.svg
+TDOC,Teladoc Health Inc,https://image-cdn.pluang.com/icons/light/global-stocks/tdoc.svg
+VSCO,Victoria's Secret & Co,https://image-cdn.pluang.com/icons/light/global-stocks/vsco.svg
+ARR,"ARMOUR Residential REIT, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/arr.svg
+TXG,10X Genomics Inc,https://image-cdn.pluang.com/icons/light/global-stocks/txg.svg
+KSS,Kohl's Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/kss.svg
+NVAX,Novavax Inc,https://image-cdn.pluang.com/icons/light/global-stocks/nvax.svg
+AMC,"AMC ENTERTAINMENT HOLDINGS, INC.",https://image-cdn.pluang.com/icons/light/global-stocks/amc.svg
+AIV,Apartment Investment and Management Co,https://image-cdn.pluang.com/icons/light/global-stocks/aiv.svg
+COUR,Coursera Inc,https://image-cdn.pluang.com/icons/light/global-stocks/cour.svg
+ADPT,Adaptive Biotechnologies Corp,https://image-cdn.pluang.com/icons/light/global-stocks/adpt.svg
+FUBO,Fubotv Inc,https://image-cdn.pluang.com/icons/light/global-stocks/fubo.svg
+DNUT,Krispy Kreme Inc,https://image-cdn.pluang.com/icons/light/global-stocks/dnut.svg
+SEDG,Solaredge Technologies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/sedg.svg
+FSLY,Fastly Inc,https://image-cdn.pluang.com/icons/light/global-stocks/fsly.svg
+VMEO,Vimeo Inc,https://image-cdn.pluang.com/icons/light/global-stocks/vmeo.svg
+FVRR,Fiverr International Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/fvrr.svg
+HLF,Herbalife Nutrition Ltd,https://image-cdn.pluang.com/icons/light/global-stocks/hlf.svg
+OPEN,Opendoor Technologies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/open.svg
+ANGI,Angi Inc,https://image-cdn.pluang.com/icons/light/global-stocks/angi.svg
+FIGS,Figs Inc,https://image-cdn.pluang.com/icons/light/global-stocks/figs.svg
+NRDS,Nerdwallet Inc,https://image-cdn.pluang.com/icons/light/global-stocks/nrds.svg
+ABCL,AbCellera Biologics Inc,https://image-cdn.pluang.com/icons/light/global-stocks/abcl.svg
+SFIX,Stitch Fix Inc,https://image-cdn.pluang.com/icons/light/global-stocks/sfix.svg
+BMBL,Bumble Inc,https://image-cdn.pluang.com/icons/light/global-stocks/bmbl.svg
+API,Agora Inc,https://image-cdn.pluang.com/icons/light/global-stocks/api.svg
+NNDM,Nano Dimension Ltd - ADR,https://image-cdn.pluang.com/icons/light/global-stocks/nndm.svg
+FNKO,Funko Inc,https://image-cdn.pluang.com/icons/light/global-stocks/fnko.svg
+PUBM,PubMatic Inc,https://image-cdn.pluang.com/icons/light/global-stocks/pubm.svg
+EXFY,Expensify Inc,https://image-cdn.pluang.com/icons/light/global-stocks/exfy.svg
+JMIA,Jumia Technologies AG - ADR,https://image-cdn.pluang.com/icons/light/global-stocks/jmia.svg
+TDUP,ThredUp Inc,https://image-cdn.pluang.com/icons/light/global-stocks/tdup.svg
+BYND,Beyond Meat Inc,https://image-cdn.pluang.com/icons/light/global-stocks/bynd.svg
+LOGC,ContextLogic Inc,https://image-cdn.pluang.com/icons/light/global-stocks/logc.svg
+CGC,Canopy Growth Corp,https://image-cdn.pluang.com/icons/light/global-stocks/cgc.svg
+LAZR,Luminar Technologies Inc,https://image-cdn.pluang.com/icons/light/global-stocks/lazr.svg
+QVCGA,Qurate Retail Inc Series A,https://image-cdn.pluang.com/icons/light/global-stocks/qvcga.svg
+FCEL,FuelCell Energy Inc,https://image-cdn.pluang.com/icons/light/global-stocks/fcel.svg
+SAVA,Cassava Sciences Inc,https://image-cdn.pluang.com/icons/light/global-stocks/sava.svg
+AMWL,American Well Corp,https://image-cdn.pluang.com/icons/light/global-stocks/amwl.svg
+SPCE,"Virgin Galactic Holdings, Inc.",https://image-cdn.pluang.com/icons/light/global-stocks/spce.svg
+SAVE,Spirit Airlines Incorporated,https://image-cdn.pluang.com/icons/light/global-stocks/save.svg
+GPRO,GoPro Inc,https://image-cdn.pluang.com/icons/light/global-stocks/gpro.svg
+INO,Inovio Pharmaceuticals Inc,https://image-cdn.pluang.com/icons/light/global-stocks/ino.svg
+PRTS,Carparts.Com Inc,https://image-cdn.pluang.com/icons/light/global-stocks/prts.svg
+ALLK,Allakos Inc,https://image-cdn.pluang.com/icons/light/global-stocks/allk.svg
+NKLA,Nikola Corp,https://image-cdn.pluang.com/icons/light/global-stocks/nkla.svg
+RENT,Rent the Runway Inc,https://image-cdn.pluang.com/icons/light/global-stocks/rent.svg
+ARCC,Ares Capital Corporation,https://image-cdn.pluang.com/icons/light/global-stocks/arcc.svg
+BF.B,Brown-Forman Corporation Class B,https://image-cdn.pluang.com/icons/light/global-stocks/bf.b.svg
